@@ -1,2 +1,1 @@
-# software-design
-Software design, term 5, aka android
+ Журавский Владислав (853506)
