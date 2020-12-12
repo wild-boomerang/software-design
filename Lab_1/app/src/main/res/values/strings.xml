@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Mega Converter</string>
+
+    <string name="distance">Distance</string>
+    <string name="weight">Weight</string>
+    <string name="currency">Currency</string>
+
+    <string name="num0">0</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="dot">.</string>
+    <string name="delete">delete</string>
+    <string name="copy">copy</string>
+
+    <string name="kilometers">kilometers</string>
+    <string name="miles">miles</string>
+    <string name="feet">feet</string>
+
+    <string name="kilograms">kilograms</string>
+    <string name="ounces">ounce</string>
+    <string name="puonds">pounds</string>
+
+    <string name="BYN">BYN</string>
+    <string name="USD">USD</string>
+    <string name="EUR">EUR</string>
+</resources>
