@@ -3,7 +3,6 @@ package by.bsuir.wildboom.lab1;
 import java.io.Serializable;
 
 public class Conversion implements Serializable {
-
     private String[] values;
     private double[][] conv_kf;
 

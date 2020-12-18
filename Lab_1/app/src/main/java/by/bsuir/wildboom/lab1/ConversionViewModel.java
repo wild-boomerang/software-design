@@ -5,7 +5,6 @@ import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
 public class ConversionViewModel extends ViewModel {
-
     public Conversion conversion;
     private int _spinnerTop;
     private int _spinnerBottom;
