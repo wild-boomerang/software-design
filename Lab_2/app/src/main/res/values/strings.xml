@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="paused">Paused</string>
+    <string name="running">Running</string>
+    <string name="finish">Finish</string>
+    <string name="save">Save</string>
+    <string name="title">Title</string>
+    <string name="total_time">Total time</string>
+    <string name="night_mode">Dark mode</string>
+    <string name="language">Language</string>
+    <string name="font_size">Font size</string>
+    <string name="font_small">small</string>
+    <string name="font_large">large</string>
+    <string name="delete_all_timers">Delete all timers</string>
+    <string name="delete_all_timers_dialog">Do you want to delete all timers?</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+</resources>

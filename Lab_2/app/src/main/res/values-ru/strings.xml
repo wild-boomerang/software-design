@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Таймер</string>
+    <string name="paused">Остановлено</string>
+    <string name="running">В процессе</string>
+    <string name="finish">Финиш</string>
+    <string name="save">Сохранить</string>
+    <string name="title">Заголовок</string>
+    <string name="total_time">Время тренировки</string>
+    <string name="night_mode">Ночной режим</string>
+    <string name="language">Язык</string>
+    <string name="font_size">Размер шрифта</string>
+    <string name="font_small">маленький</string>
+    <string name="font_large">большой</string>
+    <string name="delete_all_timers">Удалить все таймеры</string>
+    <string name="delete_all_timers_dialog">Вы действительно хотите удалить все таймеры?</string>
+    <string name="confirmation">Подтверждение</string>
+    <string name="cancel">Отмена</string>
+    <string name="confirm">Подтвердить</string>
+</resources>

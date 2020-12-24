@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Languages">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="FontSizes">
+        <item>Small</item>
+        <item>Large</item>
+    </string-array>
+
+    <string-array name="SetValues">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>

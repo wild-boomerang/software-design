@@ -1,0 +1,22 @@
+<resources>
+
+    <style name="NewAppTheme" parent="Theme.AppCompat.DayNight"/>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:colorPrimaryDark">@color/colorDarkBackground</item>
+        <item name="android:colorButtonNormal">@color/colorActionBar</item>
+    </style>
+
+    <style name="DarkAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/colorDarkBackground</item>
+        <item name="android:colorPrimaryDark">@color/colorDarkBackground</item>
+        <item name="android:colorButtonNormal">@color/colorButtonText</item>
+        <item name="android:windowActionBar">@style/MyActionBar</item>
+
+    </style>
+
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/colorActionBar</item>
+    </style>
+
+</resources>
