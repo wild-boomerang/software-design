@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Battleship</string>
+    <string name="start">Start</string>
+    <string name="rotate">Rotate</string>
+    <string name="place_your_ships">Place your ships</string>
+
+    <string name="create">Create</string>
+    <string name="waiting_enemy">Waiting for enemy</string>
+    <string name="ready_state">You are ready</string>
+    <string name="connect">Connect</string>
+
+    <string name="you_lost">You lost</string>
+    <string name="you_won">You won</string>
+    <string name="our_turn">Your turn</string>
+    <string name="enemy_turn">Enemy turn</string>
+
+    <string name="nickname">Nickname</string>
+    <string name="save">Save</string>
+    <string name="choose">Choose</string>
+    <string name="user_profile_image">User profile image</string>
+
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+</resources>

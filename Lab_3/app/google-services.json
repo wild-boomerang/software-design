@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "909002462735",
+    "project_id": "battleship-a6433",
+    "storage_bucket": "battleship-a6433.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909002462735:android:2a216ebc8c500049edb57a",
+        "android_client_info": {
+          "package_name": "by.bsuir.wildboom.lab3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909002462735-2h02mboqcpuu658b9urvh3lgfqs59js1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsykA1TYWeHIIe-CQPq6tx9eroOvA6w2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909002462735-2h02mboqcpuu658b9urvh3lgfqs59js1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
